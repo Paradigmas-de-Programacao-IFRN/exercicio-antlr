@@ -1,5 +1,0 @@
-    x = leia
-    escolha x + 1
-      caso 1 : exiba "um"
-      caso 2 : exiba "dois"
-      outro  : exiba "outro numero"

@@ -1,5 +1,0 @@
-  x = 10;
-  
-  soma(x, y) = x + y;
-  
-  escreva soma(17, x + 1)

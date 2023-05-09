@@ -1,5 +1,0 @@
-n := 100;
-para i de 1 ate n faca {
-  escreva i;
-  n := n / 2
-}

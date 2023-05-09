@@ -1,5 +1,0 @@
-  soma(a,b) = a + b ;
-  
-  soma3(a,b,c) = soma(a, soma(b, c));
-  
-  escreva soma3(2,3,4)
